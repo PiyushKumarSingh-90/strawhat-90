@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar Singh</h1>
+![logo](https://github.com/strawhat-90/strawhat-90/blob/main/PIYUSH%20KUMAR%20SINGH%20(1).png)
+
+<h1 align="center">Hey viewers 👋, I'm Piyush Kumar Singh</h1>
 <h3 align="center">PURSUEING MY BTECH CSE COURSE IN ITM SKILL UNIVERSITY</h3>
 
 
@@ -8,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👱🏻 ABOUT ME - **This is piyush, Piyush Kumar singh and i,m from patna(Bihar) And Pursuing my btech CSE course in itm skill university.**
+- 👱🏻 ABOUT ME - **This is piyush, Piyush Kumar singh and i'm from patna(Bihar) And Pursuing my btech CSE course in Itm skill university.**
 
 - ✌🏻YOU CAN AlSO CONNECT WITH ME ON LINKEDIN - [https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/](https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/)
 
