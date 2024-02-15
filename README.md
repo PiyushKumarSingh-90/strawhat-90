@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey viewers 👋, I'm Piyush Kumar Singh</h1>    
 
-<h3 align="center">PURSUEING MY BTECH CSE COURSE IN ITM SKILL UNIVERSITY</h3>        
+<h3 align="center">PURSUEING MY BTECH CSE COURSE IN ITM SKILL UNIVERSITY</h3>         
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strawhat-90&label=Profile%20views&color=0e75b6&style=flat" alt="strawhat-90" /> </p>
  
@@ -16,7 +16,7 @@
 
 - 📄CURRENTLY I'M GOING TO LEARNING - Dsa, java programing ,os ,html 5 , js ,css 3 ,design thinking ,ui/ux ,react js.**
 
-- 🤝YOU CAN CONNECT WITH ME ON INSTAGRAM - **https://www.instagram.com/kumarpiyush_01/** 
+- 🤝YOU CAN CONNECT WITH ME ON INSTAGRAM - **https://www.instagram.com/kumarpiyush_01/**  
   
 - ⚡ FUN FACT - **I like to watch Anime** 
 
