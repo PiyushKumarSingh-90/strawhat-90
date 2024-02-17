@@ -23,7 +23,7 @@
 <img  align="right" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQbPXiop7HBoC4WO2xpfUXemA8FdsTGWNjfrH2_7mmGVboFsZiFbbJzuEjjpAXTx8pXtdRKBTymBWDwIP55B5Ep--jxrg=s2560"/> 
 
 <h3 align="left">Connect with me:</h3>  
-<p align="left">
+<p align="left"> 
 
 <a href="https://linkedin.com/in/piyush kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kumar singh" height="30" width="40" /></a>
 <a href="https://fb.com/kumar piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar piyush" height="30" width="40" /></a>
