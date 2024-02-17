@@ -1,4 +1,4 @@
-![logo](https://github.com/strawhat-90/strawhat-90/blob/main/PIYUSH%20KUMAR%20SINGH%20(1).png) 
+![logo](https://github.com/strawhat-90/strawhat-90/blob/main/PIYUSH%20KUMAR%20SINGH%20(1).png)  
 
 <h1 align="center">Hey viewers 👋, I'm Piyush Kumar Singh</h1>    
 
