@@ -10,7 +10,7 @@
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>    
 
-- 👱🏻 ABOUT ME - **This is piyush, Piyush Kumar singh and i'm from patna(Bihar) And Pursuing my btech CSE course in Itm skill university.**      
+- 👱🏻 ABOUT ME - **This is piyush, Piyush Kumar singh and i'm from patna(Bihar) And Pursuing my btech CSE course in Itm skill university.**       
   
 - ✌🏻YOU CAN AlSO CONNECT WITH ME ON LINKEDIN - [https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/](https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/) 
 
