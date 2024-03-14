@@ -12,6 +12,7 @@
 
 - 👱🏻 ABOUT ME - **This is piyush, Piyush Kumar singh and i'm from patna(Bihar) And Pursuing my btech CSE course in Itm skill university.**          
 
+
 - ✌🏻YOU CAN AlSO CONNECT WITH ME ON LINKEDIN - [https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/]  (https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/)
   
 - 📄CURRENTLY I'M GOING TO LEARNING - Dsa, java programing ,os ,html 5 , js ,css 3 ,design thinking ,ui/ux ,react js.** 
