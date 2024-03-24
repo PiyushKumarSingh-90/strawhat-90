@@ -17,7 +17,6 @@
 - 📄CURRENTLY I'M GOING TO LEARNING - Dsa, java programing ,os ,html 5 , js ,css 3 ,design thinking ,ui/ux ,react js.**
   
 - 🤝YOU CAN CONNECT WITH ME ON INSTAGRAM - **https://www.instagram.com/kumarpiyush_01/**
-- 
   
 - ⚡ FUN FACT - **I like to watch Anime**
   
