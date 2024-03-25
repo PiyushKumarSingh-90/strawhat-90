@@ -21,7 +21,6 @@
 
 
 
-
   
 - ⚡ FUN FACT - **I like to watch Anime**
 
