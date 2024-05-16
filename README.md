@@ -14,7 +14,6 @@
 
 
 
-
 <h3 align="center">PURSUEING MY BTECH CSE COURSE IN ITM SKILL UNIVERSITY</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strawhat-90&label=Profile%20views&color=0e75b6&style=flat" alt="strawhat-90" /> </p>  
